@@ -29,6 +29,8 @@ Each repository contains a `Makefile` that you can use to initialise the project
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
 
+![Andre Sionek](https://github.com/Real-Life-IaC/.github/assets/5912422/86e8b046-edc8-4d94-a53d-8974787c5cb8)
+
 I am an experienced Lead Software/Data Engineer focused on Infrastructure as Code, CI/CD, APIs, Software Architecture, and microservices. Instructor of data engineering Bootcamps and a winner of some Kaggle challenges. 
 
 I've been working over the past few years to improve the developer experience with better continuous integration, testing and automating all steps of software development. My goal is to give my team 100% confidence that if the tests are passing, then it will work in the cloud/production. I enable them to refactor and constantly improve existing code so that we don't end with skeletons in the closet. 
