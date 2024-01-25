@@ -22,6 +22,13 @@ Each repository is independent and "almost" self-sufficient. As explained in the
 Each repository contains a `Makefile` that you can use to initialise the project, install the dependencies and run the tests.
 
 ## 🧙 About the author: *Andre Sionek* 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AndreSionek)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
+
 I am an experienced Lead Software/Data Engineer focused on Infrastructure as Code, CI/CD, APIs, Software Architecture, and microservices. Instructor of data engineering Bootcamps and a winner of some Kaggle challenges. 
 
 I've been working over the past few years to improve the developer experience with better continuous integration, testing and automating all steps of software development. My goal is to give my team 100% confidence that if the tests are passing, then it will work in the cloud/production. I enable them to refactor and constantly improve existing code so that we don't end with skeletons in the closet. 
@@ -30,13 +37,6 @@ For example, I built the whole infrastructure at Util using AWS CDK, then automa
 
 My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
 
-**🔗 Connect with me**
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AndreSionek)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
 
 ## 🔍 The reviewers: 
 
