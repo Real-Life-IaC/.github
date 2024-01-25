@@ -1,12 +1,46 @@
-## Hi there 👋
+# Hello 👋, welcome!
 
-<!--
+This organization contains all code repositories for [Real-Life Infrastructure as Code with AWS CDK](), published by [Andre Sionek](https://github.com/andresionek91).
 
-**Here are some ideas to get you started:**
+## What is this book about?
+Add text here
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Get your [copy]() today!
+
+## 🍿 Download a free PDF
+Get a fee PDF version of this book at no cost if you have already purchased a print or Kindle version of this book.
+
+## 🧭 Instructions and Navigation
+All code is organized into repositories. There is usually one repo per chapter. You'll find the repository reference at the beginning of each chapter, as shown below:
+
+![Chapter](https://github.com/Real-Life-IaC/.github/assets/5912422/cf7a94fe-dc10-4389-947f-475aa4672a9f)
+
+Each repository is independent and "almost" self-sufficient. As explained in the book, there are some dependencies between repositories and you'll need to deploy them in the correct order.
+
+### 👩‍💻 The Makefile
+Each repository contains a `Makefile` that you can use to initialise the project, install the dependencies and run the tests.
+
+## 🧙 About the author: *Andre Sionek* 
+I am an experienced Lead Software/Data Engineer focused on Infrastructure as Code, CI/CD, APIs, Software Architecture, and microservices. Instructor of data engineering Bootcamps and a winner of some Kaggle challenges. 
+
+I've been working over the past few years to improve the developer experience with better continuous integration, testing and automating all steps of software development. My goal is to give my team 100% confidence that if the tests are passing, then it will work in the cloud/production. I enable them to refactor and constantly improve existing code so that we don't end with skeletons in the closet. 
+
+For example, I built the whole infrastructure at Util using AWS CDK, then automated all processes using GitHub Actions. I also implemented design patterns that made all of our APIs similar to each other, easing the maintenance and implementation. I also have extensive experience with Data Engineering, which makes me think about the software engineering discipline as processes to move (or display) data from one place to another.
+
+My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
+
+**🔗 Connect with me**
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AndreSionek)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
+
+## 🔍 The reviewers: 
+
+### Rhuan Lima
+
+
+
+
