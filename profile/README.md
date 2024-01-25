@@ -21,7 +21,9 @@ Each repository is independent and "almost" self-sufficient. As explained in the
 ### 👩‍💻 The Makefile
 Each repository contains a `Makefile` that you can use to initialise the project, install the dependencies and run the tests.
 
-## 🧙 About the author: *Andre Sionek* 
+## 🧙 About the author
+
+### Andre Sionek 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
@@ -38,7 +40,7 @@ For example, I built the whole infrastructure at Util using AWS CDK, then automa
 My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
 
 
-## 🔍 The reviewers: 
+## 🔍 About the reviewers
 
 ### Rhuan Lima
 
