@@ -18,6 +18,10 @@ All code is organized into repositories. There is usually one repo per chapter. 
 
 Each repository is independent and "almost" self-sufficient. As explained in the book, there are some dependencies between repositories and you'll need to deploy them in the correct order.
 
+### 🎫 Issues / Questions
+
+Please open an issue in the respective repository if you have questions or found a problem with the code!
+
 ### 👩‍💻 The Makefile
 Each repository contains a `Makefile` that you can use to initialise the project, install the dependencies and run the tests.
 
