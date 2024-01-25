@@ -5,10 +5,11 @@ This organization contains all code repositories for [Real-Life Infrastructure a
 ## What is this book about?
 Add text here
 
-Get your [copy]() today!
+### Get your copy!
+Order your book now!
 
 ## 🍿 Download a free PDF
-Get a fee PDF version of this book at no cost if you have already purchased a print or Kindle version of this book.
+Get a free PDF version of this book at no cost if you have already purchased a print or Kindle version of this book.
 
 ## 🧭 Instructions and Navigation
 All code is organized into repositories. There is usually one repo per chapter. You'll find the repository reference at the beginning of each chapter, as shown below:
