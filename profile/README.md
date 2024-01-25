@@ -1,3 +1,5 @@
+![banner](https://github.com/Real-Life-IaC/.github/assets/5912422/369394ce-4037-4166-b736-5085bca5be77)
+
 # Hello 👋, welcome!
 
 This organization contains all code repositories for [Real-Life Infrastructure as Code with AWS CDK](), published by [Andre Sionek](https://github.com/andresionek91).
