@@ -39,7 +39,7 @@ I am an experienced Lead Software/Data Engineer focused on Infrastructure as Cod
 
 I've been working over the past few years to improve the developer experience with better continuous integration, testing and automating all steps of software development. My goal is to give my team 100% confidence that if the tests are passing, then it will work in the cloud/production. I enable them to refactor and constantly improve existing code so that we don't end with skeletons in the closet. 
 
-For example, I built the whole infrastructure at Util using AWS CDK, then automated all processes using GitHub Actions. I also implemented design patterns that made all of our APIs similar to each other, easing the maintenance and implementation. I also have extensive experience with Data Engineering, which makes me think about the software engineering discipline as processes to move (or display) data from one place to another.
+For example, I built the whole infrastructure at one startup using AWS CDK, then automated all processes with GitHub Actions. I also implemented design patterns that made all of our APIs similar to each other, easing the maintenance and implementation. I also have extensive experience with Data Engineering, which makes me think about the software engineering discipline as processes to move (or display) data from one place to another.
 
 My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
 
