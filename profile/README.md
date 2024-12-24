@@ -69,7 +69,3 @@ I've been working over the past few years to improve the developer experience wi
 For example, I built the whole infrastructure at one startup using AWS CDK, then automated all processes with GitHub Actions. I also implemented design patterns that made all of our APIs similar to each other, easing the maintenance and implementation. I also have extensive experience with Data Engineering, which makes me think about the software engineering discipline as processes to move (or display) data from one place to another.
 
 My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
-
-<iframe src="https://github.com/sponsors/Real-Life-IaC/card" title="Sponsor Real-Life-IaC" height="225" width="600" style="border: 0;"></iframe>
-
-
