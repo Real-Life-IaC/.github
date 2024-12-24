@@ -2,16 +2,45 @@
 
 # Hello 👋, welcome!
 
-This organization contains all code repositories for [Real-Life Infrastructure as Code with AWS CDK](), published by [Andre Sionek](https://github.com/andresionek91).
+This organization contains all code repositories for [Real-Life Infrastructure as Code with AWS CDK](https://real-life-iac.com/), published by [Andre Sionek](https://github.com/andresionek91).
+
+![blank-white-mock-up-book](https://github.com/user-attachments/assets/ac6dc76e-9dea-4682-ae71-0ef5c8b05a80)
+
 
 ## What is this book about?
-Add text here
+This book will show you how to build a modern software platform in Python using [AWS CDK](https://aws.amazon.com/cdk/). Even if you use a different language, you will find this book useful because I focus on architecture patterns rather than syntax details. The book is divided into three parts: Foundations, Real-Life Examples, and Best Practices. 
 
-### Get your copy!
-Order your book now!
+I begin with an introduction to Infrastructure as Code (IaC) CDK to help you quickly learn and refresh some concepts. Then, we dive into a series of real-life implementations of various services and components that you can use to build your software platform. All examples are complete and fully functional, as I have personally deployed them. Finally, I discuss some best practices that I have learned from experience and implemented in the examples. You'll learn:
+
+\begin{itemize}
+    \item AWS CDK and IaC concepts.
+    \item Cloud computing concepts and services, including the [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/).
+    \item How to build a cloud-native software platform using CDK.
+    \item Create functional constructs of code that can build your cloud application.
+    \item How to create reusable construct libraries.
+\end{itemize}
+
+In most cases, I will not discuss the pros and cons of different approaches or try to convince you to use one tool over another. I assume that you are already familiar with the *WHATs* and *WHYs*, and you are reading this book to learn the *HOWs. I will share my opinionated best practices, but keep in mind that opinions can change based on new evidence or different contexts. My opinions may also be completely wrong. Keep this in mind while reading.
+
+Most books focus on syntax or general concepts, and the documentation for both AWS and CDK is excellent. Therefore, I do not believe that I should write a book to discuss those topics. Instead, I focus on the areas that can be challenging, such as connecting and orchestrating different cloud services. The book also includes diagrams and illustrations to help you understand the architecture and how each component fits into the system.
+
+I will share what I believe is the best way to build and manage infrastructure on AWS. In most cases, I will not show alternative implementations, but I hope to provide you with the tools and knowledge to make your own decisions. My goal is to support you in building a robust software platform in \acrshort*{aws} by applying the concepts and examples that I share. I also hope to help you avoid some of the mistakes I have made.
+
+By the end of this book, you will have a clear understanding of IaC with CDK and the confidence to build a scalable, secure, and easy-to-maintain software platform in AWS.
 
 ## 🍿 Download a free PDF
-Get a free PDF version at no cost if you have already purchased a print or Kindle version of this book.
+Get a free PDF version at no cost on [https://real-life-iac.com/](https://real-life-iac.com/)!
+
+## 💝 Did you enjoy the book? Sponsor it!
+There are several ways to support this project if you enjoyed the content!
+
+1. Buy a paperback or digital version on Amazon, Apple books or Play books.
+2. Send a one-off or recurring donation via [Github Sponsors](https://github.com/sponsors/Real-Life-IaC/).
+3. If you are in Brazil, you can send me a PIX on **pix@real-life-iac.com**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
+
+
+![image](https://github.com/user-attachments/assets/4a8c3c2a-643f-4f15-ba05-111278c6ec1c)
+
 
 ## 🧭 Instructions and Navigation
 All code is organized into repositories. There is usually one repo per chapter. You'll find the repository reference at the beginning of each chapter, as shown below:
@@ -46,11 +75,6 @@ For example, I built the whole infrastructure at one startup using AWS CDK, then
 
 My main interests are in creating systems and architectures to deliver data reliably, and to improve the team's productivity by automating any manual processes. I'm a strong Python developer, have great communication skills, and I'm always willing to share some knowledge.
 
-
-## 🔍 About the reviewers
-
-### Rhuan Lima
-
-
+<iframe src="https://github.com/sponsors/Real-Life-IaC/card" title="Sponsor Real-Life-IaC" height="225" width="600" style="border: 0;"></iframe>
 
 
