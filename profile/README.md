@@ -1,11 +1,8 @@
-![banner](https://github.com/Real-Life-IaC/.github/assets/5912422/369394ce-4037-4166-b736-5085bca5be77)
+![mock-up-book](https://github.com/user-attachments/assets/ac6dc76e-9dea-4682-ae71-0ef5c8b05a80)
 
 # Hello 👋, welcome!
 
 This organization contains all code repositories for [Real-Life Infrastructure as Code with AWS CDK](https://real-life-iac.com/), published by [Andre Sionek](https://github.com/andresionek91).
-
-![blank-white-mock-up-book](https://github.com/user-attachments/assets/ac6dc76e-9dea-4682-ae71-0ef5c8b05a80)
-
 
 ## What is this book about?
 This book will show you how to build a modern software platform in Python using [AWS CDK](https://aws.amazon.com/cdk/). Even if you use a different language, you will find this book useful because I focus on architecture patterns rather than syntax details. The book is divided into three parts: Foundations, Real-Life Examples, and Best Practices. 
@@ -34,10 +31,10 @@ There are several ways to support this project if you enjoyed the content!
 
 1. Buy a paperback or digital version on Amazon, Apple books or Play books.
 2. Send a one-off or recurring donation via [Github Sponsors](https://github.com/sponsors/Real-Life-IaC/).
-3. If you are in Brazil, you can send me a PIX on **pix@real-life-iac.com**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
+3. If you are in Brazil, you can send me a PIX on **[pix@real-life-iac.com]()**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
 
 
-![image](https://github.com/user-attachments/assets/4a8c3c2a-643f-4f15-ba05-111278c6ec1c)
+![pix-qr-code](https://github.com/user-attachments/assets/4a8c3c2a-643f-4f15-ba05-111278c6ec1c)
 
 
 ## 🧭 Instructions and Navigation
