@@ -31,7 +31,7 @@ There are several ways to support this project if you enjoyed the content!
 
 1. Buy a paperback or digital version on Amazon, Apple books or Play books.
 2. Send a one-off or recurring donation via [Github Sponsors](https://github.com/sponsors/Real-Life-IaC/).
-3. If you are in Brazil, you can send me a PIX on **[pix@real-life-iac.com]()**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
+3. If you are in Brazil, you can send me a PIX on **pix@real-life-iac.com**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
 
 
 ![pix-qr-code](https://github.com/user-attachments/assets/4a8c3c2a-643f-4f15-ba05-111278c6ec1c)
