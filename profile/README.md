@@ -12,13 +12,11 @@ This book will show you how to build a modern software platform in Python using 
 
 I begin with an introduction to Infrastructure as Code (IaC) CDK to help you quickly learn and refresh some concepts. Then, we dive into a series of real-life implementations of various services and components that you can use to build your software platform. All examples are complete and fully functional, as I have personally deployed them. Finally, I discuss some best practices that I have learned from experience and implemented in the examples. You'll learn:
 
-\begin{itemize}
-    \item AWS CDK and IaC concepts.
-    \item Cloud computing concepts and services, including the [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/).
-    \item How to build a cloud-native software platform using CDK.
-    \item Create functional constructs of code that can build your cloud application.
-    \item How to create reusable construct libraries.
-\end{itemize}
+* AWS CDK and IaC concepts.
+* Cloud computing concepts and services, including the [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/).
+* How to build a cloud-native software platform using CDK.
+* Create functional constructs of code that can build your cloud application.
+* How to create reusable construct libraries.
 
 In most cases, I will not discuss the pros and cons of different approaches or try to convince you to use one tool over another. I assume that you are already familiar with the *WHATs* and *WHYs*, and you are reading this book to learn the *HOWs. I will share my opinionated best practices, but keep in mind that opinions can change based on new evidence or different contexts. My opinions may also be completely wrong. Keep this in mind while reading.
 
