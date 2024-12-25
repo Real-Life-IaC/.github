@@ -19,7 +19,7 @@ In most cases, I will not discuss the pros and cons of different approaches or t
 
 Most books focus on syntax or general concepts, and the documentation for both AWS and CDK is excellent. Therefore, I do not believe that I should write a book to discuss those topics. Instead, I focus on the areas that can be challenging, such as connecting and orchestrating different cloud services. The book also includes diagrams and illustrations to help you understand the architecture and how each component fits into the system.
 
-I will share what I believe is the best way to build and manage infrastructure on AWS. In most cases, I will not show alternative implementations, but I hope to provide you with the tools and knowledge to make your own decisions. My goal is to support you in building a robust software platform in \acrshort*{aws} by applying the concepts and examples that I share. I also hope to help you avoid some of the mistakes I have made.
+I will share what I believe is the best way to build and manage infrastructure on AWS. In most cases, I will not show alternative implementations, but I hope to provide you with the tools and knowledge to make your own decisions. My goal is to support you in building a robust software platform in AWS by applying the concepts and examples that I share. I also hope to help you avoid some of the mistakes I have made.
 
 By the end of this book, you will have a clear understanding of IaC with CDK and the confidence to build a scalable, secure, and easy-to-maintain software platform in AWS.
 
