@@ -33,10 +33,10 @@ There are several ways to support this project if you enjoyed the content!
 2. ☑️ Follow me on [LinkedIn](https://www.linkedin.com/in/andresionek/) and [Medium](https://www.sionek.com).
 3. 📗 Buy a paperback or digital version on [Amazon](), [Apple books]() or [Play books]().
 4. 💰 Send a one-off or recurring donation via [Github Sponsors](https://github.com/sponsors/Real-Life-IaC/).
-5. 🇧🇷 If you are in Brazil, you can send a PIX to **pix@real-life-iac.com**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676aa1c1-1998-4b21-bc75-71ce62844573), or with the QR Code below:
+5. 🇧🇷 If you are in Brazil, you can send a PIX to **pix@real-life-iac.com**, [clicking here](https://nubank.com.br/cobrar/1j8r44/676bee9c-f120-49be-a7ca-840e500a3b59), or with the QR Code below:
 
 
-![pix-qr-code](https://github.com/user-attachments/assets/4a8c3c2a-643f-4f15-ba05-111278c6ec1c)
+![pix-qr-code](https://github.com/user-attachments/assets/31f5fe72-089e-4601-80be-7ea3c83d16dd)
 
 
 ## 🧭 Instructions and Navigation
